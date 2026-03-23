@@ -6,6 +6,6 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new features
 - Becoming a maintainer
 
-**All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.** ```
+**All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.**
 
 
